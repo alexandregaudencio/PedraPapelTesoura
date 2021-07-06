@@ -1,0 +1,13 @@
+#font: 
+Fredoka One: https://fonts.google.com/specimen/Fredoka+One?preview.text_type=custom#standard-styles
+Montserrat: https://fonts.google.com/specimen/Montserrat?preview.text_type=custom#about
+
+#CORES
+verde: #5AE400
+laranja: #FF5300
+roxo: #FB0EC0
+fundo azul escuro: #423C96
+fonte azul claro: #E3F6FF
+
+
+
